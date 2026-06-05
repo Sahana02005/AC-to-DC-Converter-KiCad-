@@ -32,4 +32,18 @@ The circuit employs four **1N4007 diodes** configured as a **bridge rectifier**,
 - Pre‑regulator stage for DC power supplies  
 - Embedded or IoT prototypes requiring low‑voltage DC input  
 
-## Repository Structure
+## Future Enhancements
+This project can be extended and refined in several ways:
+- Add a **voltage regulator IC** (e.g., LM7805) to provide a fixed 5 V DC output.
+- Integrate **fuse and transient protection** for safety and reliability.
+- Perform **ripple analysis** with simulation results to quantify performance.
+- Design a **compact PCB layout** suitable for enclosure integration.
+
+## License
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute the design with proper attribution.
+
+## Author
+**Sahana G**  
+Visionary Embedded Systems & IoT Engineer  
+BMS Institute of Technology, Bangalore
